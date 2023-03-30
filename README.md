@@ -17,30 +17,25 @@
 
 
 ## I started with combining two separate datasets into one using **LEFT JOIN** function: 
-<br/>
-<img src="https://github.com/miracle99shoh/mySQL_query_warehouse/blob/main/warehouse_analysis_query_01.png"/>
-<br />
-<br />
-Then I set up **SELECT** function for what tables to return and I renamed them to be more precise:  
-<br />
-<img src="https://github.com/miracle99shoh/mySQL_query_warehouse/blob/main/warehouse_analysis_query_02.png"/>
-<br />
-<br />
-I used **CASE** function to calculate and assign the fulfillment degree: <br/>
-<img src="https://github.com/miracle99shoh/mySQL_query_warehouse/blob/main/warehouse_analysis_query_03.png"/>
-<br />
-<br />
-Last step is to grouping by warehouses and ordering the results according to the number of orders completed using **GROUP BY** and **ORDER BY** functions:  <br/>
-<img src="https://github.com/miracle99shoh/mySQL_query_warehouse/blob/main/warehouse_analysis_query_04.png"/>
-<br />
-<br />
-Combination of whole query looks like this:  <br/>
-<img src="https://github.com/miracle99shoh/mySQL_query_warehouse/blob/main/warehouse_analysis_query_1.png"/>
-<br />
-<br />
-And this is the final result:  <br/>
-<img src="https://github.com/miracle99shoh/mySQL_query_warehouse/blob/main/warehouse_analysis_query_2.png"/>
-<br />
-### Through the analysis we can see that the most orders were completed by "MI:Lansing Fulfillment Center" warehouse and <br />4 of the warehouses are under construction.
+
+<img src="https://github.com/miracle99shoh/mySQL_query_warehouse/blob/main/warehouse_analysis_query_01.png"/> <br />
+
+## Then I set up ***SELECT*** function for what tables to return and I renamed them to be more precise:  
+
+<img src="https://github.com/miracle99shoh/mySQL_query_warehouse/blob/main/warehouse_analysis_query_02.png"/> <br />
+
+## I used ***CASE*** function to calculate and assign the fulfillment degree: <br/>
+<img src="https://github.com/miracle99shoh/mySQL_query_warehouse/blob/main/warehouse_analysis_query_03.png"/> <br />
+
+## Last step is to grouping by warehouses and ordering the results according to the number of orders completed using ***GROUP BY*** and ***ORDER BY*** functions:  <br/>
+<img src="https://github.com/miracle99shoh/mySQL_query_warehouse/blob/main/warehouse_analysis_query_04.png"/> <br />
+
+## Combination of whole query looks like this:  <br/>
+<img src="https://github.com/miracle99shoh/mySQL_query_warehouse/blob/main/warehouse_analysis_query_1.png"/> <br />
+
+## And this is the final result:  <br/>
+<img src="https://github.com/miracle99shoh/mySQL_query_warehouse/blob/main/warehouse_analysis_query_2.png"/> <br />
+
+## Through the analysis we can see that the most orders were completed by *"MI:Lansing Fulfillment Center"* warehouse and 4 of the warehouses are under construction.
 <br />
 <h2> The End. Thank You <h2>
