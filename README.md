@@ -19,8 +19,8 @@
 ## I started with combining two separate datasets into one using **LEFT JOIN** function: <br/>
 <img src="https://github.com/miracle99shoh/mySQL_query_warehouse/blob/main/warehouse_analysis_query_01.png"/>
 <br />
-## <br />
-Then I set up **SELECT** function for what tables to return and I renamed them to be more precise:  <br/>
+<br />
+## Then I set up **SELECT** function for what tables to return and I renamed them to be more precise:  <br/>
 <img src="https://github.com/miracle99shoh/mySQL_query_warehouse/blob/main/warehouse_analysis_query_02.png"/>
 <br />
 <br />
